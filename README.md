@@ -1,10 +1,13 @@
-<img src="https://github.com/catherineisonline/bankist/blob/main/img/project-preview.png?raw=true" ></img>
-<img src="https://github.com/catherineisonline/bankist/blob/main/img/project-preview-2.png?raw=true" ></img>
-<img src="https://github.com/catherineisonline/bankist/blob/main/img/project-preview-3.png?raw=true" ></img>
+Screenshots
+---------------------
+
+<img width="600" alt="project-preview" src="https://github.com/adriiiiiix/bankist/assets/88784785/8d1d0b04-b385-4bc4-8337-da10e2b044cf">
+<img width="600" alt="project-preview-2" src="https://github.com/adriiiiiix/bankist/assets/88784785/9663b21d-0cfd-4d54-96ee-c144f9ac860b">
+<img width="600" alt="project-preview-3" src="https://github.com/adriiiiiix/bankist/assets/88784785/a3da996c-e371-45ba-b923-f49f5cd791f3">
 
 # Bankist
 
-<a href="https://bankist-bank.vercel.app/">Bankist</a> is a fictional and minimalistic online banking application.
+<a href="https://bankistbank.vercel.app/">Bankist</a> is a fictional and minimalistic online banking application.
 
 Everything you need in a modern bank and more.
 · 100% digital bank
@@ -41,7 +44,3 @@ This is the template login details to use the bank functionality. The project do
 - HTML
 - CSS
 - Vanilla JavaScript
-
-## Contribution
-
-This project serves as a project to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to message me or submit an idea in the [discussions](https://github.com/catherineisonline/bankist/discussions). Otherwise, you are free to fork this project and change it for your own purposes.
